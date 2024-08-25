@@ -115,7 +115,7 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 # Set up the application
 def main():
     # Set the bot token directly
-    token = "7302626900:AAFX_Rj0AAHnYr-AzsGTaepv4f3LWfDqM4Y"  # Make sure to replace with your actual token
+    token = "TELEGRAM_BOT_TOKEN" # set your token API here
 
     if not token:
         logger.error("TELEGRAM_BOT_TOKEN environment variable is not set.")
