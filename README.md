@@ -37,7 +37,7 @@ The bot supports the following languages:
    cd Translator_chatbot
    ```
 
-2. Install the required Python packages:
+2. Install the required Python packages in your terminal:
    ```bash
    pip install python-telegram-bot transformers torch langid
    ```
@@ -45,7 +45,7 @@ The bot supports the following languages:
 3. Replace the `token` variable in the code with your actual Telegram bot token, or set it as an environment variable `TELEGRAM_BOT_TOKEN`.You can get a
    token from https://t.me/BotFather
 
-5. Run the bot:
+5. Run the bot in your terminal:
    ```bash
    python telegram_bot_application_with_seamless_m4t.py
    ```
