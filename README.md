@@ -1,6 +1,6 @@
 # Telegram Translation Bot
 
-A Telegram bot that detects the language of a user's message and translates it into a target language of choice using the Seamless M4T Model. The bot provides an easy-to-use interface with inline buttons to select target languages and give feedback on the translations.
+A Telegram bot that detects the language of a user's message and translates it into a target language of choice using the Seamless M4T Model. The bot provides an easy-to-use interface with inline buttons to select target languages and give feedback on the translations.Here is the bot username: https://t.me/Ars_gooyesh_intern_bot
 
 ## Features
 
