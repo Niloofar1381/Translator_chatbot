@@ -31,7 +31,8 @@ A Telegram bot that detects the language of a user's message and translates it i
    pip install python-telegram-bot transformers torch langid
    ```
 
-3. **Replace the placeholder `TELEGRAM_BOT_TOKEN` in the `main()` function with your actual Telegram Bot API token:**
+3. **Replace the placeholder `TELEGRAM_BOT_TOKEN` in the `main()` function with your actual Telegram Bot API token.You can get a
+   token from https://t.me/BotFather:**
 
    ```python
    token = "YOUR_TELEGRAM_BOT_TOKEN"
